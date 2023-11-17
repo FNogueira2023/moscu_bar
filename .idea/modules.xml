@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mosku_bar.iml" filepath="$PROJECT_DIR$/.idea/mosku_bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../moscu_bar/.idea/moscu_bar.iml" filepath="$PROJECT_DIR$/../moscu_bar/.idea/moscu_bar.iml" />
     </modules>
   </component>
 </project>
