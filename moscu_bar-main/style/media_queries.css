@@ -1,0 +1,38 @@
+@media screen and (max-width: 768px) {
+
+    * .title {
+        margin-top: 5rem;
+    }
+
+    /* header */
+    .logo {
+        width: 30%;
+        padding: 10px;
+        margin: auto;
+
+    }
+
+    .header .header-main ul {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .header .header-main ul li {
+        margin: 3px 20px;
+    }
+
+    .header .header-right ul {
+        display: none;
+    }
+
+    .header .header-left,
+    .header .header-right {
+        width: 50vw;
+    }
+
+    .logIcon i {
+        left: 12rem;
+    }
+}
+
